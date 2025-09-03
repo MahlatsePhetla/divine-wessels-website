@@ -40,7 +40,7 @@ function showNextSlide() {
 }
 
 // Slide every 4 seconds
-setInterval(showNextSlide, 1000);
+setInterval(showNextSlide, 3000);
 
 
 // Form content 
